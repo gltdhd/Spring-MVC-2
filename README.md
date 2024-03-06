@@ -5,3 +5,4 @@
 `Validation` : Sec 4. 검증1 - Validation <br>
 `BeanValidation` : Sec 5. 검증2 - BeanValidation <br>
 `LogIn` : Sec 6~7. 로그인 처리 - 쿠키,세션,필터,인터셉터 
+`Exception` : Sec 8~9. 예외 처리와 오류 페이지, API 예외 처리 
